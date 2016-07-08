@@ -1,0 +1,16 @@
+.full {
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 60%;
+}
+
+.full-screen {
+	background-color: black;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	z-index: 99;
+	left: 0;
+	right: 0;
+}
